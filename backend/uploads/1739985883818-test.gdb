@@ -1,0 +1,1 @@
+Ceci est un fichier .gdb de test.
